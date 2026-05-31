@@ -5,7 +5,7 @@
 **Comprehensive Analysis | Insights | Problems | Recommendations**
 
 ---
-
+DATASET LINK : https://github.com/dexxman/FAHAD-STORE-ANALYSIS/blob/main/Fahad%20Store%20Dataset%20analysis.xlsx
 ## 📊 Overview
 
 **Dashboard Period**: January - December (Full Year)  
